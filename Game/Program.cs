@@ -14,7 +14,7 @@ namespace Game
             
             bool flag = true;
             Monster monster = new Monster();
-            //DisplayInfo.PrintPurposeGame();          
+            DisplayInfo.PrintPurposeGame();          
             Console.WriteLine("Введите enter для продолжения");
             Console.ReadKey();
             Console.Clear();
